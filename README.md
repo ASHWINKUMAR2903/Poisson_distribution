@@ -41,6 +41,11 @@ The Poisson distribution is the discrete probability distribution of the number 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Program :
 ### NAME : ASHWIN KUMAR.A
@@ -89,7 +94,6 @@ else:
 <br>
 <br>
 <br>
-<br> 
 
 # Output : 
 ![image](https://github.com/ASHWINKUMAR2903/Poisson_distribution/assets/119407186/c4b5cb62-8356-4d44-9f99-486e082a3366)
